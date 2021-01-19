@@ -5,7 +5,9 @@
 In this research project, we will analyze public transit access to 17 Regional Recreation Parks in LA County. We will see which neighborhoods can access those recreation areas in a trip of 45 minutes or less of walking and public transit, and which forms of public transit are available to them. These 17 parks are the parks in LA County that each encompass over 100 acres and contain 3 or more active amenities, such as swimming pools or athletic fields. 
 We selected these parks because they draw users from across the county; sometimes drawing people from over 25 miles away. In this way, we’re using this definition of parks as a proxy for the most heavily used parks. Since users can live so far from these parks, they raise the question of how people get to the parks. Additionally, our research project has grown out of the LA Parks Needs Assessment project, which examined access to parks based on walking distance. That project inventoried over 3,000 parks and open spaces across the county, and divided them into four categories: Local Parks, Regional Recreation Parks, Regional Open Spaces, and Natural Areas. We selected the Regional Recreation Parks category for our analysis based on the reasoning above.
 
-_Source:_  https://lacountyparkneeds.org/wp-content/uploads/2016/06/FinalReport.pdf
+_Sources:_  
+  * https://lacountyparkneeds.org/wp-content/uploads/2016/06/FinalReport.pdf
+  * https://www.ppic.org/content/pubs/cacounts/CC_206EBCC.pdf
 
 ### An explanation of why it is important to you, why it matters to others, and what is at stake 
 There is extensive and widely documented evidence about inequities in neighborhood park access along the lines of race, socioeconomic status, and education level in cities across the country. Neither the City of LA nor the larger LA County are exempt from this. As a result of these inequities, many LA residents living in lower-income communities of color must travel to access parks that are larger, better maintained, and have more amenities. However, low-income households tend to have less access to cars and tend to take shorter trips by car than middle- or high-income households. This suggests that public transit routes to well-maintained parks are crucial for low-income households.
@@ -31,3 +33,22 @@ This research project will focus on the selected 17 parks across LA County. We c
 *LA County: County-wide Parks and Open Space:* https://egis-lacounty.hub.arcgis.com/datasets/countywide-parks-and-open-space-public-hosted/
 
 This data set provides information on the 3,000+ parks and open spaces in LA County, including their size, facilities, and coordinates. After sorting by type (NDS_AN_TYPE), we can extract the 17 regional recreation parks that we’re studying and use the coordinates and shape provided.
+
+*LA Metro: Documentation:* https://developer.metro.net/docs/
+
+This website provides multiple data sets including the Metro Bus Schedule and GIS data. The bus schedule comes in a gitlab repository that includes stops, trips, and routes. The GIS files provide the bus routes in a shapefile. 
+
+*LA Metro: Riding Schedules:* https://www.metro.net/riding/schedules/
+If we are unable to calculate the bus schedules off of the LA Metro documentation, we may reference this beta bus schedule viewer to determine travel times. This data set provides PDFs of bus schedules by stop and arrival times. 
+
+### A scope that explains the intended analysis and resulting visualizations for your project (flowchart)
+
+This research project is intended to analyze who has access to LA County parks classified as Regional Recreation Parks via public transit. This analysis will be done through establishing walk sheds to transit stops near the parks and at the terminating transit stops along the bus routes. These walk sheds should form a visual of who has access to these parks within our selected travel times.
+
+*Flowchart*
+
+Project Proposal (includes creating scope and selecting parameters) -> Gather datasets -> Map the 17 parks -> Create walk sheds -> Determine transit available within the walk sheds -> Use established travel times to find all accessible stops along bus routes -> Create walksheds around those stops -> From those walksheds, determine who has access.
+
+###  A concluding paragraph of what insights you expect to gain from your research
+
+We hope to corroborate evidence about inequities in neighborhood park access in the City of LA. The results of our analysis will provide insight on spatial access disparities in relation to public health, travel investment, and COVID-19. This project should reveal which neighborhoods have more access than others to parks which have been highly invested in. Additionally, the project will show the extent to which people must invest towards travel in order to have access. 
