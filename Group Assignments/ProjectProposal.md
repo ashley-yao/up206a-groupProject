@@ -47,7 +47,14 @@ This research project is intended to analyze who has access to LA County parks c
 
 *Flowchart*
 
-Project Proposal (includes creating scope and selecting parameters) -> Gather datasets -> Map the 17 parks -> Create walk sheds -> Determine transit available within the walk sheds -> Use established travel times to find all accessible stops along bus routes -> Create walksheds around those stops -> From those walksheds, determine who has access.
+Project Proposal (includes creating scope and selecting parameters) 
+ -> Gather datasets 
+ -> Map the 17 parks 
+ -> Create walk sheds 
+ -> Determine transit available within the walk sheds 
+ -> Use established travel times to find all accessible stops along bus routes 
+ -> Create walksheds around those stops 
+ -> From those walksheds, determine who has access.
 
 ###  A concluding paragraph of what insights you expect to gain from your research
 
