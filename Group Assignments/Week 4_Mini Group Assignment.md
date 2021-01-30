@@ -4,27 +4,29 @@
 [Project proposal](https://github.com/ashley-yao/up206a-groupProject/blob/main/Group%20Assignments/ProjectProposal.md)
 
 ### Roles 
-**Public Issues Officer** Katrina is taking the lead on developing the overarching project goal and identifying what factors we need to consider in our analysis.
-**Chief Transit Officer** Ashley is taking the lead on identifying the transit stops of interest and developing a process for calculating travel time on transit.
+* **Public Issues Officer** Katrina is taking the lead on developing the overarching project goal and identifying what factors we need to consider in our analysis.
+* **Chief Transit Officer** Ashley is taking the lead on identifying the transit stops of interest and developing a process for calculating travel time on transit.
 
 ### Status update
 Feeling pretty good still
 A little concerned about scope, but feel like our methodology is working
 
 **Ashley:**
+
 **Katrina:** As we talked about during office hours, figuring out the right scope for this project has been a little challenging. The lab on isochrones brought that challenge up for me again (see concerns section below). Overall, though, mapping out demographics by census tract and isochrones around central points has made me feel that our project will be achievable. 
 
-Data update: Provide a short narrative on where you are with the data sources you will incorporate in your project. Provide links as necessary.
-Adding maps for race, income, education level
+### Data update: 
 
-Ashley:
+ Ashley:
 **Katrina:**: In addition to the data we listed in our original proposal, we will be adding maps to represent LA County demographics by census tract: specifically, race, income, and education level. 
 
-Concerns: There should be a lot to be concerned about at this phase of the project. List those concerns and classify them as "Major concerns" and/or "Minor concerns."
+### Concerns
+
 Number of parks + park entrances/exits
 Identifying transit stops around parks
 
 Ashley:
+
 **Katrina:** Doing the lab on isochrones and testing out some new isochrones on my own has brought up a few concerns. 
 * Major concern: 
   * Many of the parks that we're mapping only lie within a single neighborhood area (as mapped by OSMnx), but LA as a whole is too large to be used as the map area. I'm still texting out different neighborhoods to see if there's a way to get around this.
