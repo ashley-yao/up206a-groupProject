@@ -24,6 +24,8 @@ Overall feeling pretty good, but have some individual worries:
 
 **Ashley:** I think we'll have to address the location points in the isochrones using the entrances and exits. My concern with this is that we'll end up having several maps and have to figure out how to combine them for even an individual park. I think once we've accomplished this for one park it will be replicable for the other parks. Major concern is time. I think my minor concern is if there is a way to consider or generalize which groups we feel are most impacted in the end results, but that's a bridge we'll cross when we get there. 
 
+Later update: New major concern is combining schedule data, isochrone walkshed data, and bus schedule. Individual assignment starts this work, but I might need to come into office hours to fully flesh this out. 
+
 **Katrina:** Doing the lab on isochrones and testing out some new isochrones on my own has brought up a few concerns. 
 * Major concern: 
   * Many of the parks that we're mapping only lie within a single neighborhood area (as mapped by OSMnx), but LA as a whole is too large to be used as the map area. I'm still texting out different neighborhoods to see if there's a way to get around this.
