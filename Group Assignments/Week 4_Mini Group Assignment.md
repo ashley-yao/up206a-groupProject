@@ -17,6 +17,7 @@ Overall feeling pretty good, but have some individual worries:
 ### Data update: 
 
 **Ashley:** In addition to the data listed in our original proposal, we will be adding OSMnx data to build walksheds around the parks.
+* Bus Schedule https://gitlab.com/LACMTA/gtfs_bus
 
 **Katrina:** In addition to the data we listed in our original proposal, we will be adding maps to represent LA County demographics by census tract: specifically, race, income, and education level. 
 
