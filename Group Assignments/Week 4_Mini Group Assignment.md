@@ -17,9 +17,9 @@ A little concerned about scope, but feel like our methodology is working
 
 ### Data update: 
 
-**Ashley:**: In addition to the data listed in our original proposal, we will be adding OSMnx data to build walksheds around the parks.
+**Ashley:** In addition to the data listed in our original proposal, we will be adding OSMnx data to build walksheds around the parks.
 
-**Katrina:**: In addition to the data we listed in our original proposal, we will be adding maps to represent LA County demographics by census tract: specifically, race, income, and education level. 
+**Katrina:** In addition to the data we listed in our original proposal, we will be adding maps to represent LA County demographics by census tract: specifically, race, income, and education level. 
 
 ### Concerns
 
