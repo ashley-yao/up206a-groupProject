@@ -3,7 +3,7 @@
 ### An introduction of your research question
 In this research project, we will analyze public transit access to 17 Regional Recreation Parks in LA County. We will examine which neighborhoods can access those recreation areas in a trip of 45 minutes or less of walking and public transit, and which forms of public transit are available to them. These 17 parks are the parks in LA County that each encompass over 100 acres and contain 3 or more active amenities, such as swimming pools or athletic fields. 
 
-We selected these parks because they draw users from across the county; sometimes drawing people from over 25 miles away. In this way, we’re using this definition of parks as a proxy for the most heavily used parks. Since users can live so far from these parks, they raise the question of how people get to the parks. Additionally, our research project has grown out of the LA Parks Needs Assessment project, which examined access to parks based on walking distance. That project inventoried over 3,000 parks and open spaces across the county, and divided them into four categories: Local Parks, Regional Recreation Parks, Regional Open Spaces, and Natural Areas. We selected the Regional Recreation Parks category for our analysis based on the reasoning above.
+We selected these parks because they draw users from across the county; sometimes drawing people from over 25 miles away. In this way, we’re using this definition of parks as a proxy for the most heavily used parks. Since users can live so far from these parks, they raise the question of how people get to the parks. Additionally, our research project has grown out of the [LA Parks Needs Assessment](https://lacountyparkneeds.org/) project, which examined access to parks based on walking distance. That project inventoried over 3,000 parks and open spaces across the county, and divided them into four categories: Local Parks, Regional Recreation Parks, Regional Open Spaces, and Natural Areas. We selected the Regional Recreation Parks category for our analysis based on the reasoning above.
 
 We will also be presenting census-tract level demographics on LA County; specifically, on race, income, and level of education. We want to examine whether there's a relationship between any of those demographics and access to parks.
 
@@ -65,6 +65,9 @@ These walksheds will form a visual of to show who can access these parks.
 
 We are defining "access" to a park by public transit as areas from which a person can reach a Regional Recreation Park from their home within 45 minutes or less, including walk times to and from transit and time on transit.
 We chose 45 minutes as the maximum number of time because the average LA commute by public transit takes 54 minutes, and we assumed that most people would not want to travel for longer than their commute to reach a park. 45 minutes seemed like a good upper limit at which a resident might decide to either drive instead, or not go to the park at all.
+
+_Source:_
+* https://usa.streetsblog.org/2019/05/06/study-commutes-are-longer-when-cities-fail-on-transit/#:~:text=Californians%20relying%20on%20the%20Los,Time%20to%20Commute%E2%80%9D%20study%20shows.
 
 *Flowchart*
 
